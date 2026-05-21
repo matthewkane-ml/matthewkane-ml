@@ -1,4 +1,4 @@
-# Hi, I'm Matthew Kane
+# Hi, I'm Matthew Thomas Kane
 
 Mathematics graduate and data science / machine learning practitioner with 3 years of production-support experience in business-critical systems, SQL-based troubleshooting, incident analysis, and technical documentation.
 
