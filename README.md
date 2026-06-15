@@ -76,5 +76,5 @@ B.A. Mathematics, 2021
 
 ## Connect
 
-- LinkedIn: [[linkedin.com/in/thomas-k-392094410](https://www.linkedin.com/in/thomas-k-392094410/)](https://www.linkedin.com/in/matthew-thomas-kane-data/)
+- LinkedIn: https://www.linkedin.com/in/matthew-thomas-kane-data/
 - GitHub: [github.com/matthewkane-ml](https://github.com/matthewkane-ml)
