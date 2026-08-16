@@ -63,7 +63,7 @@ That experience gave me practical exposure to production systems, operational da
 Data Science & Machine Learning Bootcamp, 2026  
 
 **University of Colorado Boulder**  
-B.A. Mathematics, 2021  
+2021  
 
 ---
 
